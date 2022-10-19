@@ -2,6 +2,10 @@ package Abstract.Example;
 
 public class YemekSepetiMain {
     public static void main(String[] args) {
+        /*
+        Ekteki şekle göre Classları oluşturup,
+        YemekDunyasi isimli mainde birer nesne oluşturup yazdırınız.
+         */
 
         Baklava baklava=new Baklava();
         System.out.println(baklava.getClass().getSimpleName());
