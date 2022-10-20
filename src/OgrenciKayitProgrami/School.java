@@ -20,11 +20,5 @@ public class School {
             System.out.println("Öğrenci Sayısı = "+Student.ogrSayısı());
 
         }while (secim<6);
-
-
-
-        //TODO: Kullanıcıya bir menu ile öğrenci ekleme, silme , arama
-        //TODO: duzeltme imkanı veriniz. Öğrenci silinse bile en son
-        //TODO: öğrenci sayısı doğru gözükmeli.
     }
 }

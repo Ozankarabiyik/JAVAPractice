@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public abstract class Phone {
     public static ArrayList<String> cart=new ArrayList<>();
-
     public static int getSum(ArrayList<String> cart){
         int ucret=0;
         for (String f : cart){

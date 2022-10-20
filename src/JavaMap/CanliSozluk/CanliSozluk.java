@@ -15,7 +15,6 @@ public class CanliSozluk {
         // 5- Silme
         // 6- Çıkış
 
-
         Map<String, String> sozluk = new TreeMap<>();
 
         Scanner okuInt = new Scanner(System.in);
